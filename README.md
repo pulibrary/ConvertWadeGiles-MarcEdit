@@ -11,4 +11,4 @@ MarcEdit plugin for converting Chinese romanization from Wade-Giles to Pinyin.  
 4. Open the "Plugins" menu, and select "ConvertWadeGiles".
 5. In the simplest case, the highlighted text will be conveted to pinyin automatically.
   - If any parts of the text are ambiguous between Wade-Giles and pinyin, an alert will pop up after conversion reminding the user to proofread the results.
-  - If the text contains an equals sign or ends with a phrase in parentheses, the tool considers that this may be a translation, and pops up a dialog with additional options, such as deleting the expression, keeping it where it is, or moving it to a 500 field.
+  - If the text contains an equals sign or ends with a phrase in parentheses, the tool considers that this may be a translation, and pops up a dialog with additional options, such as deleting the expression, keeping it where it is, or moving it to another field.
